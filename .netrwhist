@@ -1,2 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/michael/angularjs_projects/todo'
+let g:netrw_dirhist_2='/home/michael/angularjs_projects/todo/bower_components'
+let g:netrw_dirhist_3='/home/michael/angularjs_projects/projectquoting/app'
+let g:netrw_dirhist_4='/home/michael/angularjs_projects/projectquoting'
+let g:netrw_dirhist_5='/home/michael/angularjs_projects/status-app/node_modules'
+let g:netrw_dirhist_6='/home/michael/angularjs_projects/ijdb'
+let g:netrw_dirhist_7='/home/michael/.vim'
